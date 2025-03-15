@@ -1,4 +1,6 @@
 #EXTINF:-1 tvg-logo="https://fox24.blog/upload/post/65247a50e5353.jpeg", ام بی سی فارسی
 #EXTVLCOPT:http-player-type=m3u
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://media.mehrnews.com/d/2019/04/14/3/3100714.jpg", شبکه 3
+#EXTVLCOPT:http-player-type=m3u
+http://5.127.1.9/wh7f454c46tw1815921041_327073564/PLTV/88888888/224/3221226868/3.m3u8?tenantId=9802
