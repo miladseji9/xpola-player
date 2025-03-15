@@ -4,3 +4,6 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 #EXTINF:-1 tvg-logo="https://media.mehrnews.com/d/2019/04/14/3/3100714.jpg", شبکه 3
 #EXTVLCOPT:http-player-type=m3u
 http://5.127.1.9/wh7f454c46tw1815921041_327073564/PLTV/88888888/224/3221226868/3.m3u8?tenantId=9802
+#EXTINF:-1 group-title="ویدیو" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2YjI4ZWItNDVmMi00MjdiLTlhODMtYjcyOGQ1MTU2NmY3XkEyXkFqcGc@._V1_.jpg", Borderlands.2024.1080p
+#EXTVLCOPT:http-player-type=m3u
+https://dl.freedlserveron.eu/dl18/2024/Borderlands.2024/Borderlands.2024.1080p.Filimo.Dubbed.FilmKio.mkv?md5=GvtdOcLSwaceUmQyVgWibg&u=395479&expires=1742011811
