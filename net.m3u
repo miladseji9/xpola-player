@@ -101,3 +101,5 @@ https://euhls.persiana.live/hls/stream.m3u8
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا کره
 https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://seraj24.ir/images/news/162098/thumbs/162098.jpg", جم تی وی
+http://forevertv.me:8080/live/Nazriet0409/OyBdv96sZg/34189.ts
