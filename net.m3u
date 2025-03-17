@@ -103,3 +103,6 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://seraj24.ir/images/news/162098/thumbs/162098.jpg", جم تی وی
 http://forevertv.me:8080/live/Nazriet0409/OyBdv96sZg/34189.ts
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/11/Home-plus-logo-bioact.ir_.jpg", Home + HD
+#EXTVLCOPT:http-player-type=m3u
+https://homeplushls.wns.live/hls/stream.m3u8
