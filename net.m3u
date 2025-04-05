@@ -111,3 +111,5 @@ https://homeplushls.wns.live/hls/stream.m3u8
 https://hls.oxir.live/hls/stream.m3u8
 #EXTINF:-1, Meta Film HD
 https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1, ClassicTV
+https://clshls.wns.live/hls/stream.m3u8
