@@ -21,8 +21,6 @@ https://rohls.pmc.live/hls/stream.m3u8
 https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,پرشیا سینما
 https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,پرشیانا ایرانیان
-https://irhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f5/Iribvarzesh2022.png",شبکه ورزش
 http://5.127.1.7/wh7f454c46tw2393566850_584090276/PLTV/88888888/224/3221226845/3.m3u8?tenantId=9802
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/1200px-Ahwaz_TV.svg.png",خوزستان
@@ -43,16 +41,10 @@ https://hls.oxir.live/hls/stream.m3u8
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1,آوا سریال
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1,پرشیا  کورد
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,پرشیا لاتین
-https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1,FxTv2
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,گرند سینما
 https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:-1,پرشیا اسپورت
-https://per-siana-sp-website.maniatream.com/live/OMv8tStyklkYIE8CmgLAiQ__/stream_0.m3u8
 #EXTINF:-1,بیوتی
 https://irbthls.wns.live/hls/stream.m3u8
 #EXTINF:-1,خاطره
@@ -85,9 +77,14 @@ https://hls.oxir.live/hls/stream.m3u8
 https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,ClassicTV
 https://clshls.wns.live/hls/stream.m3u8
-#EXTINF:-1,ClassicTV
-#EXTVLCOPT:http-player-type=m3u
-https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="پرشیا",پرشیانا ایرانیان
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="پرشیا",پرشیا  کورد
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="پرشیا",پرشیا لاتین
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="پرشیا",پرشیا اسپورت
+https://per-siana-sp-website.maniatream.com/live/OMv8tStyklkYIE8CmgLAiQ__/stream_0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXfvWlml0xHxFR_8XPwSIGNoBLvQOvC54Qw&s" group-title="پرشیا",موزیک پرشیا
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.persianity.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/persianafamily.jpg" group-title="پرشیا",پرشیا فامیلی
