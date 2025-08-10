@@ -3,10 +3,6 @@
 http://5.127.1.9/wh7f454c46tw1815921041_327073564/PLTV/88888888/224/3221226868/3.m3u8?tenantId=9802
 #EXTINF:-1 tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/ABADAN-TV-Logo.png" group-title="iran",abadan
 http://92.42.50.26/wh7f454c46tw317771736_953189499/PLTV/88888888/224/3221227000/1.m3u8?tenantId=9802
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HD45bFF0vEEujQnnXovtvjA8syF6nD6wp3lBKu23HO80hgPuEnCRtGOvlutJbHsmmJk_XVyZ=s900-c-k-c0x00ffffff-no-rj",من وتو
-https://manoto.icdndhcp.com/hls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjUgMTozNzoxMiBBTSZoYXNoX3ZhbHVlPWtFMkY2ZU15ZEpFMGdLd1VOd0dWZ0E9PSZ2YWxpZG1pbnV0ZXM9MzA=
-#EXTINF:-1 tvg-logo="https://fox24.blog/upload/post/65247a50e5353.jpeg",ام بی سی فارسی
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGooTATqZDv0C8cLfFZJHfkixbKG831cmvCw&s",فوریو
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/12/fx-fans-logo-bioact.jpg",Fx tv 1
@@ -21,10 +17,6 @@ https://bravoohls.wns.live/hls/stream.m3u8
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWhnj3eIMI9kmTDFpCkQofKtKk9WvvYbFMw&s",پی ام سی رویال
 https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-X-D8O1pRDn2pORiBA8VuWVGPmfqGEVDpag&s",کینگ مویز
-https://fastdehost.com/live/kingmovie.m3u8
-#EXTINF:-1 tvg-logo="https://pmcmusic.tv/wp-content/uploads/2023/12/webapp-pmcmusic.webp",پی ام سی
-https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/77/Radio_javan_official_logo.png",رادیو جوان
 https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,پرشیا سینما
@@ -57,8 +49,6 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1,FxTv2
 https://toonixhls.wns.live/hls/stream.m3u8
-#EXTINF:-1,هوم پلاس
-https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1,گرند سینما
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1,پرشیا اسپورت
@@ -83,14 +73,21 @@ http://5.127.1.7/wh7f454c46tw1205225969_-79077910/PLTV/88888888/224/3221226637/2
 http://5.127.1.9/wh7f454c46tw1271307910_-541375542/PLTV/88888888/224/3221226176/1.m3u8?tenantId=9802
 #EXTINF:-1,نسیم
 http://5.127.1.2/wh7f454c46tw1399731170_-409236878/PLTV/88888888/224/3221226653/2.m3u8?tenantId=9802
-#EXTINF:-1,نمایش
-http://92.42.50.5/wh7f454c46tw1442103186_-530039193/PLTV/88888888/224/3221226148/1741718045-1-174171803.hls.ts?tenantId=9802
-#EXTINF:-1,الرابعة
-https://live.elahmad.net/https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2YjI4ZWItNDVmMi00MjdiLTlhODMtYjcyOGQ1MTU2NmY3XkEyXkFqcGc@._V1_.jpg",Borderlands.2024.1080p
 https://dl.freedlserveron.eu/dl18/2024/Borderlands.2024/Borderlands.2024.1080p.Filimo.Dubbed.FilmKio.mkv?md5=GvtdOcLSwaceUmQyVgWibg&u=395479&expires=1742011811
-#EXTINF:-1,جم تی وی
-http://forevertv.me:8080/live/Nazriet0409/OyBdv96sZg/34189.ts
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/11/Home-plus-logo-bioact.ir_.jpg",Home + HD
+#EXTVLCOPT:http-player-type=m3u
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/11/oxir-logo-bioact.jpg",OXIR TV HD
+#EXTVLCOPT:http-player-type=m3u
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1,Meta Film HD
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,ClassicTV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1,ClassicTV
+#EXTVLCOPT:http-player-type=m3u
+https://clshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXfvWlml0xHxFR_8XPwSIGNoBLvQOvC54Qw&s" group-title="پرشیا",موزیک پرشیا
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.persianity.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/persianafamily.jpg" group-title="پرشیا",پرشیا فامیلی
@@ -101,24 +98,9 @@ https://euhls.persiana.live/hls/stream.m3u8
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا کره
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://seraj24.ir/images/news/162098/thumbs/162098.jpg", جم تی وی
-http://forevertv.me:8080/live/Nazriet0409/OyBdv96sZg/34189.ts
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/11/Home-plus-logo-bioact.ir_.jpg", Home + HD
-#EXTVLCOPT:http-player-type=m3u
-https://homeplushls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/11/oxir-logo-bioact.jpg", OXIR TV HD
-#EXTVLCOPT:http-player-type=m3u
-https://hls.oxir.live/hls/stream.m3u8
-#EXTINF:-1, Meta Film HD
-https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1, ClassicTV
-https://clshls.wns.live/hls/stream.m3u8
-#EXTINF:-1, ClassicTV
-#EXTVLCOPT:http-player-type=m3u
-https://clshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcQ6krTeK72EaBheHwRGDjuw5737BEPWFxQ&s", الفرات
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcQ6krTeK72EaBheHwRGDjuw5737BEPWFxQ&s" group-title="عراق",الفرات
 #EXTVLCOPT:http-player-type=m3u
 https://s1.ettehadlive.com/live//10/chunklist_w1402123088.m3u8?v=636245562/playlist.m3u8
-#EXTINF:-1 group-title="عراق" tvg-logo="https://yt3.googleusercontent.com/mqS0YQk9zTyPSiaegKLsbINPwbv6KfO4jgDmmkc1z0jIUH2tRSswgPDy93csNnof1mpAjbLN=s900-c-k-c0x00ffffff-no-rj", الکفیل
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mqS0YQk9zTyPSiaegKLsbINPwbv6KfO4jgDmmkc1z0jIUH2tRSswgPDy93csNnof1mpAjbLN=s900-c-k-c0x00ffffff-no-rj" group-title="عراق",الکفیل
 #EXTVLCOPT:http-player-type=m3u
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
