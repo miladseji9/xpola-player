@@ -21,7 +21,7 @@ http://5.127.1.7/wh7f454c46tw2393566850_584090276/PLTV/88888888/224/3221226845/3
 http://92.42.50.4/wh7f454c46tw825347616_-1175257432/PLTV/88888888/224/3221226415/1.m3u8?tenantId=9802
 #EXTINF:-1,فور موزیک
 https://4muhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,ARAX TV
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/03/Arax-tv-logo-bioact.png",آراکس
 https://araxhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,نت تی وی
 https://nethls.wns.live/hls/stream.m3u8
@@ -74,12 +74,16 @@ https://live.presstv.ir/hls/ifilm2_4_482/index.m3u8
 https://afrafilm.wns.live/
 #EXTINF:-1,ام بی سی فارسی
 https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1,دیتیس
+https://dathls.wns.live/hls/stream.m3u8
+#EXTINF:-1,کافه فیلم
+https://cafefhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFryswp5YG684s41hY56nYvem1aNBH8UxEg&s" group-title="موزیک",آونگ
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXfvWlml0xHxFR_8XPwSIGNoBLvQOvC54Qw&s" group-title="موزیک",موزیک پرشیا
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="موزیک",سان  موزیک
-https://sunmusic.live/
+#EXTINF:-1 group-title="موزیک",سان موزیک
+https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا سینما
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیانا ایرانیان
