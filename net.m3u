@@ -98,7 +98,7 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcQ6krTeK72EaBheHwRGDjuw5737BEPWFxQ&s" group-title="عراق",الفرات
 #EXTVLCOPT:http-player-type=m3u
-https://s5.picofile.com/file/8112526342/%D9%88%D8%A8_%D8%B3%D8%A7%DB%8C%D8%AA_%D8%AF%D8%B1_%D8%AD%D8%A7%D9%84_%D8%AA%D8%B9%D9%85%DB%8C%D8%B1_%D8%A7%D8%B3%D8%AA_.gif
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO6aIRNEWkZ13WG6aJNq29OSybKypxDjCAsw&s
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mqS0YQk9zTyPSiaegKLsbINPwbv6KfO4jgDmmkc1z0jIUH2tRSswgPDy93csNnof1mpAjbLN=s900-c-k-c0x00ffffff-no-rj" group-title="عراق",الکفیل
 #EXTVLCOPT:http-player-type=m3u
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
