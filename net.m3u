@@ -5,7 +5,7 @@ http://5.127.1.9/wh7f454c46tw1815921041_327073564/PLTV/88888888/224/3221226868/3
 http://92.42.50.26/wh7f454c46tw317771736_953189499/PLTV/88888888/224/3221227000/1.m3u8?tenantId=9802
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGooTATqZDv0C8cLfFZJHfkixbKG831cmvCw&s",فوریو
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/12/fx-fans-logo-bioact.jpg",Fx tv 1
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/12/fx-fans-logo-bioact.jpg",FX 1 HD
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmganq1x8fuA5KBrk7Ru-TJAoeLzrzug9E3g&s",اینتر نشنال
 https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
@@ -35,12 +35,10 @@ https://hls.oxir.live/hls/stream.m3u8
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-series-logo-bioact.jpg",آوا سریال
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1,FxTv2
+#EXTINF:-1,FX 2 HD
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/11/grand-cinema-tv.png",گرند سینما
 https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:-1,بیوتی
-https://irbthls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlnWUXahJ7kv-wA05MIftT7T2aQl5BGkHHJQ&s",طپش 2
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/mtc-tv.jpg",ام تی سی
@@ -70,8 +68,6 @@ https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/in
 https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
 #EXTINF:-1,ای فیلم 2
 https://live.presstv.ir/hls/ifilm2_4_482/index.m3u8
-#EXTINF:-1,افرا فیلم
-https://afrafilm.wns.live/
 #EXTINF:-1,ام بی سی فارسی
 https://hls.mbcpersia.live/hls/stream.m3u8
 #EXTINF:-1,دیتیس
@@ -102,7 +98,7 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcQ6krTeK72EaBheHwRGDjuw5737BEPWFxQ&s" group-title="عراق",الفرات
 #EXTVLCOPT:http-player-type=m3u
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO6aIRNEWkZ13WG6aJNq29OSybKypxDjCAsw&s
+http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mqS0YQk9zTyPSiaegKLsbINPwbv6KfO4jgDmmkc1z0jIUH2tRSswgPDy93csNnof1mpAjbLN=s900-c-k-c0x00ffffff-no-rj" group-title="عراق",الکفیل
 #EXTVLCOPT:http-player-type=m3u
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
