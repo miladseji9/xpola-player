@@ -74,6 +74,12 @@ https://hls.mbcpersia.live/hls/stream.m3u8
 https://dathls.wns.live/hls/stream.m3u8
 #EXTINF:-1,کافه فیلم
 https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,tv8
+http://line.furious-pro.cc/live/07A960/15F07A/1441669.m3u8?ipsatnews85905.m3u
+#EXTINF:-1,pm tv
+http://blue4k.xyz:8080/live/05070793386/6750b02cea052/374185.m3u8?ipsatnews85905.m3u
+#EXTINF:-1,آترینا
+https://atrihls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFryswp5YG684s41hY56nYvem1aNBH8UxEg&s" group-title="موزیک",آونگ
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXfvWlml0xHxFR_8XPwSIGNoBLvQOvC54Qw&s" group-title="موزیک",موزیک پرشیا
