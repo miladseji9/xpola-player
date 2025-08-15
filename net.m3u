@@ -13,8 +13,6 @@ https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
 https://familyhls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwIxaMdry0YLNNGgYm0zlu47QaI6X3sx7qxg&s",4UPLUS
 https://bravoohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/77/Radio_javan_official_logo.png",رادیو جوان
-https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f5/Iribvarzesh2022.png",شبکه ورزش
 http://5.127.1.7/wh7f454c46tw2393566850_584090276/PLTV/88888888/224/3221226845/3.m3u8?tenantId=9802
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/1200px-Ahwaz_TV.svg.png",خوزستان
@@ -45,8 +43,6 @@ https://t2hls.wns.live/hls/stream.m3u8
 https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:-1,کرمان
 http://92.42.50.6/wh7f454c46tw920913396_794129958/PLTV/88888888/224/3221226856/1.m3u8?tenantId=9802
-#EXTINF:-1,باران
-http://92.42.50.5/wh7f454c46tw1097768744_1697016285/PLTV/88888888/224/3221226902/1741717696-1-174171769.hls.ts?tenantId=9802
 #EXTINF:-1,شبکه 1
 http://5.127.1.7/wh7f454c46tw1205225969_-79077910/PLTV/88888888/224/3221226637/2.m3u8?tenantId=9802
 #EXTINF:-1,شبکه 2
@@ -92,12 +88,6 @@ https://afrashls.wns.live/hls/stream.m3u8
 https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:-1,پرو اسپورت
 https://hls.ptajik.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFryswp5YG684s41hY56nYvem1aNBH8UxEg&s" group-title="موزیک",آونگ
-https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXfvWlml0xHxFR_8XPwSIGNoBLvQOvC54Qw&s" group-title="موزیک",موزیک پرشیا
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="موزیک",سان موزیک
-https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا سینما
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیانا ایرانیان
@@ -114,6 +104,10 @@ https://euhls.persiana.live/hls/stream.m3u8
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا کره
 https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXfvWlml0xHxFR_8XPwSIGNoBLvQOvC54Qw&s" group-title="موزیک",موزیک پرشیا
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="موزیک",سان موزیک
+https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcQ6krTeK72EaBheHwRGDjuw5737BEPWFxQ&s" group-title="عراق",الفرات
 #EXTVLCOPT:http-player-type=m3u
 http://95.216.180.111:1935/live/10/playlist.m3u8
@@ -124,3 +118,5 @@ https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="عراق",العراقية
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/chunks.m3u8
+#EXTINF:-1 group-title="عراق",الشرقية
+https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1131683464.m3u8
