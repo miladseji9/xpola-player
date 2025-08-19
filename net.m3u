@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://media.mehrnews.com/d/2019/04/14/3/3100714.jpg" group-title="iran",شبکه 3
 http://5.127.1.9/wh7f454c46tw1815921041_327073564/PLTV/88888888/224/3221226868/3.m3u8?tenantId=9802
-#EXTINF:-1 tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/ABADAN-TV-Logo.png" group-title="iran",Abadan
+#EXTINF:-1 tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/ABADAN-TV-Logo.png" group-title="iran",آبادان
 http://92.42.50.26/wh7f454c46tw317771736_953189499/PLTV/88888888/224/3221227000/1.m3u8?tenantId=9802
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGooTATqZDv0C8cLfFZJHfkixbKG831cmvCw&s",فوریو
 https://hls.4utv.live/hls/stream.m3u8
@@ -11,7 +11,7 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehCTs-q82prhZRX6rvyrX8qyqiAE90JZ0Fg&s",فوریو فامیلی
 https://familyhls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwIxaMdry0YLNNGgYm0zlu47QaI6X3sx7qxg&s",4UPLUS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwIxaMdry0YLNNGgYm0zlu47QaI6X3sx7qxg&s",فوریو پلاس
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f5/Iribvarzesh2022.png",شبکه ورزش
 http://5.127.1.7/wh7f454c46tw2393566850_584090276/PLTV/88888888/224/3221226845/3.m3u8?tenantId=9802
@@ -51,12 +51,12 @@ http://5.127.1.9/wh7f454c46tw1271307910_-541375542/PLTV/88888888/224/3221226176/
 http://5.127.1.2/wh7f454c46tw1399731170_-409236878/PLTV/88888888/224/3221226653/2.m3u8?tenantId=9802
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2YjI4ZWItNDVmMi00MjdiLTlhODMtYjcyOGQ1MTU2NmY3XkEyXkFqcGc@._V1_.jpg",Borderlands.2024.1080p
 https://dl.freedlserveron.eu/dl18/2024/Borderlands.2024/Borderlands.2024.1080p.Filimo.Dubbed.FilmKio.mkv?md5=GvtdOcLSwaceUmQyVgWibg&u=395479&expires=1742011811
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/11/Home-plus-logo-bioact.ir_.jpg",Home + HD
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/11/Home-plus-logo-bioact.ir_.jpg",هوم پلاس
 #EXTVLCOPT:http-player-type=m3u
 https://homeplushls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/11/metafilm-logo-bioact.jpg",Meta Film HD
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/11/metafilm-logo-bioact.jpg",متا فیلم
 https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/03/Classic-TV-logo-bioact.jpg",ClassicTV
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/03/Classic-TV-logo-bioact.jpg",کلاسیک تی وی
 https://clshls.wns.live/hls/stream.m3u8
 #EXTINF:-1,الحدث
 https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index_3.m3u8
@@ -90,20 +90,24 @@ https://icchls.wns.live/hls/stream.m3u8
 https://hls.ptajik.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا سینما
 https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="پرشیا",پرشیانا ایرانیان
+#EXTINF:-1 group-title="پرشیا",پرشیا ایرانیان
 https://irhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا  کورد
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا لاتین
 https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.persianity.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/persianafamily.jpg" group-title="پرشیا",پرشیا فامیلی
+#EXTINF:-1 group-title="پرشیا",پرشیا فامیلی
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT17UbIy0-QgT7JGXUFM4WPSZpnydOpGgnVzQ&s" group-title="پرشیا",اچ دی
+#EXTINF:-1 group-title="پرشیا",پرشیا اچ دی
 https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا ترکیه
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا کره
 https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="پرشیا",پرشیا جونیور
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="پرشیا",پرشیا وان
+https://onehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXfvWlml0xHxFR_8XPwSIGNoBLvQOvC54Qw&s" group-title="موزیک",موزیک پرشیا
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="موزیک",سان موزیک
