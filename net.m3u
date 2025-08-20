@@ -125,3 +125,6 @@ https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/ch
 #EXTINF:-1 group-title="عراق",الشرقية
 https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1131683464.m3u8
 ببل
+#EXTINF:-1, فراتر
+#EXTVLCOPT:http-player-type=m3u
+https://live-azd1121.telewebion.com/ek/faratar/live/1080p/index.m3u8
