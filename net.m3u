@@ -128,3 +128,6 @@ https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1131683464.m3u8
 #EXTINF:-1, فراتر
 #EXTVLCOPT:http-player-type=m3u
 https://live-azd1121.telewebion.com/ek/faratar/live/1080p/index.m3u8
+#EXTINF:-1 group-title="از یاد رفته", قسمت 1
+#EXTVLCOPT:http-player-type=m3u
+https://edge-rful-h10.filmnet.ir/v5/eyJhbGciOiJNRDUiLCJ0eXAiOiJKV1QifQ.eyJ1IjoiZjI5ODUxNDAtMDEyMi00NmFiLWI1NTUtNDI3ZjMwYjhlNWQxIiwiYyI6IjNhMTcwODNlLWIzMGQtNDZlZi04ODJlLWNjM2M4ZDRiMGFjNyIsInByIjp0cnVlLCJlIjoiZWRnZS1yZnVsLWExMyIsImciOiJncDIzIiwicCI6Ijc0LzJjL2F6LXlhZC1yYWZ0ZWgtczAxLWUwMS1maW5hbDAyIiwieCI6MTc1NjAyNzAxMjY1Nn0.O9VBGCMTiEL_SroNbC8snA/3a17083e-b30d-46ef-882e-cc3c8d4b0ac7_1_f2985140-0122-46ab-b555-427f30b8e5d1/gp23/hls-muxed/74/2c/az-yad-rafteh-s01-e01-final02/,1080.mp4,720.mp4,480.mp4,240.mp4,filmnetset/l-f2-v1-a1.m3u8
