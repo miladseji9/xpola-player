@@ -93,6 +93,8 @@ https://hls.ptajik.live/hls/stream.m3u8
 https://live-azd1121.telewebion.com/ek/faratar/live/1080p/index.m3u8
 #EXTINF:-1,Persiana Sports 2
 https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1,Music
+https://live.asset.aparat.com/eba89a9343aca7b35c54199433318b6b/eventhls/AparatMusic_tlqov68_1080p/index.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا سینما
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا ایرانیان
