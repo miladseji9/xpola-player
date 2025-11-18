@@ -95,6 +95,20 @@ https://live-azd1121.telewebion.com/ek/faratar/live/1080p/index.m3u8
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1,Music
 https://live.asset.aparat.com/eba89a9343aca7b35c54199433318b6b/eventhls/AparatMusic_tlqov68_1080p/index.m3u8
+#EXTINF:-1,پارسه
+https://live-bshto1207.telewebion.com/ek/parseh/live/720p/index.m3u8
+#EXTINF:-1,زعفران
+https://live-bshto1205.telewebion.com/ek/zaferan/live/1080p/index.m3u8
+#EXTINF:-1,اسپورت 3
+https://live-bshto1206.telewebion.com/ek/sport3/live/720p/index.m3u8
+#EXTINF:-1,اسپورت 2
+https://live-bshto1203.telewebion.com/ek/sport2/live/720p/index.m3u8
+#EXTINF:-1,اسپورت 1
+https://live-bshto1203.telewebion.com/ek/sport2/live/720p/index.m3u8
+#EXTINF:-1,کارون
+https://live-bshto1208.telewebion.com/ek/karoon/live/1080p/index.m3u8
+#EXTINF:-1,الاهواز
+https://live.cdn.asset.aparat.com/18fe6da938168779274da0bf9dbeb0c8/livehls/alahvaztv_svy090w_720p/index.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا سینما
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا ایرانیان
