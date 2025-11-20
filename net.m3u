@@ -13,8 +13,6 @@ https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
 https://familyhls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwIxaMdry0YLNNGgYm0zlu47QaI6X3sx7qxg&s",فوریو پلاس
 https://bravoohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f5/Iribvarzesh2022.png",شبکه ورزش
-http://5.127.1.7/wh7f454c46tw2393566850_584090276/PLTV/88888888/224/3221226845/3.m3u8?tenantId=9802
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/1200px-Ahwaz_TV.svg.png",خوزستان
 http://92.42.50.4/wh7f454c46tw825347616_-1175257432/PLTV/88888888/224/3221226415/1.m3u8?tenantId=9802
 #EXTINF:-1,فور موزیک
@@ -86,29 +84,31 @@ https://arvhls.wns.live/hls/stream.m3u8
 https://afrashls.wns.live/hls/stream.m3u8
 #EXTINF:-1,icc
 https://icchls.wns.live/hls/stream.m3u8
-#EXTINF:-1,پرو اسپورت
-https://hls.ptajik.live/hls/stream.m3u8
 #EXTINF:-1,فراتر
 #EXTVLCOPT:http-player-type=m3u
 https://live-azd1121.telewebion.com/ek/faratar/live/1080p/index.m3u8
-#EXTINF:-1,Persiana Sports 2
-https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1,Music
 https://live.asset.aparat.com/eba89a9343aca7b35c54199433318b6b/eventhls/AparatMusic_tlqov68_1080p/index.m3u8
 #EXTINF:-1,پارسه
 https://live-bshto1207.telewebion.com/ek/parseh/live/720p/index.m3u8
 #EXTINF:-1,زعفران
 https://live-bshto1205.telewebion.com/ek/zaferan/live/1080p/index.m3u8
-#EXTINF:-1,اسپورت 3
-https://live-bshto1206.telewebion.com/ek/sport3/live/720p/index.m3u8
-#EXTINF:-1,اسپورت 2
-https://live-bshto1203.telewebion.com/ek/sport2/live/720p/index.m3u8
-#EXTINF:-1,اسپورت 1
-https://live-bshto1203.telewebion.com/ek/sport2/live/720p/index.m3u8
 #EXTINF:-1,کارون
 https://live-bshto1208.telewebion.com/ek/karoon/live/1080p/index.m3u8
 #EXTINF:-1,الاهواز
 https://live.cdn.asset.aparat.com/18fe6da938168779274da0bf9dbeb0c8/livehls/alahvaztv_nrj31y8_720p/index.m3u8?s=9oknsEbP-VjXIJjN2qdLdw&e=1763628533&ip=5.127.57.232
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f5/Iribvarzesh2022.png" group-title="ورزشی",شبکه ورزش
+http://5.127.1.7/wh7f454c46tw2393566850_584090276/PLTV/88888888/224/3221226845/3.m3u8?tenantId=9802
+#EXTINF:-1 group-title="ورزشی",پرو اسپورت
+https://hls.ptajik.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ورزشی",Persiana Sports 2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 group-title="ورزشی",اسپورت 3
+https://live-bshto1206.telewebion.com/ek/sport3/live/720p/index.m3u8
+#EXTINF:-1 group-title="ورزشی",اسپورت 2
+https://live-bshto1203.telewebion.com/ek/sport2/live/720p/index.m3u8
+#EXTINF:-1 group-title="ورزشی",اسپورت 1
+https://live-bshto1203.telewebion.com/ek/sport2/live/720p/index.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا سینما
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا ایرانیان
