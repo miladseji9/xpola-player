@@ -111,8 +111,10 @@ https://live-bshto1203.telewebion.com/ek/sport2/live/720p/index.m3u8
 https://live-bshto1203.telewebion.com/ek/sport2/live/720p/index.m3u8
 #EXTINF:-1 group-title="ورزشی",پرشیانا اسپورت
 https://af.ayassport.ir/hls2/Persiana.m3u8
-#EXTINF:-1 group-title="ورزشی",bein
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="ورزشی",bein
 https://af.ayassport.ir/hls2/bein1.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="ورزشی",Bein sport 1 HD
+https://wo.cma.footballii.ir/90live/token/s9y5fBTVKWwyuYptLMx8tw/1765034226/bein1_src.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا سینما
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="پرشیا",پرشیا ایرانیان
