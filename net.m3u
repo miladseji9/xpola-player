@@ -15,8 +15,6 @@ https://familyhls.4utv.live/hls/stream.m3u8
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/1200px-Ahwaz_TV.svg.png",خوزستان
 http://92.42.50.4/wh7f454c46tw825347616_-1175257432/PLTV/88888888/224/3221226415/1.m3u8?tenantId=9802
-#EXTINF:-1,فور موزیک
-https://4muhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/03/Arax-tv-logo-bioact.png",آراکس
 https://araxhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvqF1wJyCu1-0f83GRkgRwlsD9P78ZUgQGR9GJy_BbDBZ2yiAEDVxVSBI&s=10",NET TV
@@ -68,13 +66,13 @@ https://hls.mbcpersia.live/hls/stream.m3u8
 https://dathls.wns.live/hls/stream.m3u8
 #EXTINF:-1,کافه فیلم
 https://cafefhls.wns.live/hls/stream.m3u8
-#EXTINF:-1,tv8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfuaJqNHuIWeb-gFF9jHUFsaTNDVTy28dreUBUZciKEDxc9XkZRtf4SM&s=10",tv8
 http://line.furious-pro.cc/live/07A960/15F07A/1441669.m3u8?ipsatnews85905.m3u
 #EXTINF:-1,pm tv
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/374185.m3u8?ipsatnews85905.m3u
 #EXTINF:-1,آترینا
 https://atrihls.wns.live/hls/stream.m3u8
-#EXTINF:-1,NEWFLIX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_PK9KlZ-KiLWVMy6OrwkmW9iMOuIHOOXxNRPo9h2z1NrLxarNc-NzejEt&s=10",NEWFLIX
 https://newfhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,آرکو
 https://arkhls.wns.live/hls/stream.m3u8
@@ -87,8 +85,6 @@ https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:-1,فراتر
 #EXTVLCOPT:http-player-type=m3u
 https://live-azd1121.telewebion.com/ek/faratar/live/1080p/index.m3u8
-#EXTINF:-1,Music
-https://live.asset.aparat.com/eba89a9343aca7b35c54199433318b6b/eventhls/AparatMusic_tlqov68_1080p/index.m3u8
 #EXTINF:-1,پارسه
 https://live-bshto1207.telewebion.com/ek/parseh/live/720p/index.m3u8
 #EXTINF:-1,زعفران
@@ -101,7 +97,7 @@ https://live.cdn.asset.aparat.com/18fe6da938168779274da0bf9dbeb0c8/livehls/alahv
 http://5.127.1.7/wh7f454c46tw2393566850_584090276/PLTV/88888888/224/3221226845/3.m3u8?tenantId=9802
 #EXTINF:-1 group-title="ورزشی",پرو اسپورت
 https://hls.ptajik.live/hls/stream.m3u8
-#EXTINF:-1 group-title="ورزشی",پرشیانا اسپورت 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWvOQHwcvbHLJ-cvdK5HRvz6xefGj0n1bYYazIYEmsG3sVUe3slJf_Q7v&s=10" group-title="ورزشی",پرشیانا اسپورت 2
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 group-title="ورزشی",اسپورت 3
 https://live-bshto1206.telewebion.com/ek/sport3/live/720p/index.m3u8
@@ -109,43 +105,43 @@ https://live-bshto1206.telewebion.com/ek/sport3/live/720p/index.m3u8
 https://live-bshto1203.telewebion.com/ek/sport2/live/720p/index.m3u8
 #EXTINF:-1 group-title="ورزشی",اسپورت 1
 https://live-bshto1203.telewebion.com/ek/sport2/live/720p/index.m3u8
-#EXTINF:-1 group-title="ورزشی",پرشیانا اسپورت
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWvOQHwcvbHLJ-cvdK5HRvz6xefGj0n1bYYazIYEmsG3sVUe3slJf_Q7v&s=10" group-title="ورزشی",پرشیانا اسپورت
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="ورزشی",bein
 https://af.ayassport.ir/hls2/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="ورزشی",Bein sport 1 HD
 https://wo.cma.footballii.ir/90live/token/s9y5fBTVKWwyuYptLMx8tw/1765034226/bein1_src.m3u8
-#EXTINF:-1 group-title="ورزشی",پرشیانا اسپورت 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWvOQHwcvbHLJ-cvdK5HRvz6xefGj0n1bYYazIYEmsG3sVUe3slJf_Q7v&s=10" group-title="ورزشی",پرشیانا اسپورت 3
 https://pepsi3.abntv.live/hls/psp3.m3u8
-#EXTINF:-1 group-title="ورزشی",پرشیانا اسپورت 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWvOQHwcvbHLJ-cvdK5HRvz6xefGj0n1bYYazIYEmsG3sVUe3slJf_Q7v&s=10" group-title="ورزشی",پرشیانا اسپورت 4
 https://pepsi4.abntv.live/hls/psp4.m3u8
 #EXTINF:-1 group-title="ورزشی",ابوظبی الریاضیة
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 #EXTINF:-1 group-title="ورزشی",شارقه رياضية
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4sportspublish/smc4tv_source/chunks.m3u8
-#EXTINF:-1 group-title="پرشیا",پرشیا سینما
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81ADxfgXTdmGW9QGdf0ukAbIJDYEClOxr4yzCOWe7ECwROgq0XMb8hKI&s=10" group-title="پرشیا",پرشیا سینما
 https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="پرشیا",پرشیا ایرانیان
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81ADxfgXTdmGW9QGdf0ukAbIJDYEClOxr4yzCOWe7ECwROgq0XMb8hKI&s=10" group-title="پرشیا",پرشیا ایرانیان
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="پرشیا",پرشیا  کورد
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81ADxfgXTdmGW9QGdf0ukAbIJDYEClOxr4yzCOWe7ECwROgq0XMb8hKI&s=10" group-title="پرشیا",پرشیا  کورد
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="پرشیا",پرشیا لاتین
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81ADxfgXTdmGW9QGdf0ukAbIJDYEClOxr4yzCOWe7ECwROgq0XMb8hKI&s=10" group-title="پرشیا",پرشیا لاتین
 https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="پرشیا",پرشیا فامیلی
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81ADxfgXTdmGW9QGdf0ukAbIJDYEClOxr4yzCOWe7ECwROgq0XMb8hKI&s=10" group-title="پرشیا",پرشیا فامیلی
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="پرشیا",پرشیا اچ دی
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81ADxfgXTdmGW9QGdf0ukAbIJDYEClOxr4yzCOWe7ECwROgq0XMb8hKI&s=10" group-title="پرشیا",پرشیا اچ دی
 https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="پرشیا",پرشیا ترکیه
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81ADxfgXTdmGW9QGdf0ukAbIJDYEClOxr4yzCOWe7ECwROgq0XMb8hKI&s=10" group-title="پرشیا",پرشیا ترکیه
 https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="پرشیا",پرشیا کره
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81ADxfgXTdmGW9QGdf0ukAbIJDYEClOxr4yzCOWe7ECwROgq0XMb8hKI&s=10" group-title="پرشیا",پرشیا کره
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="پرشیا",پرشیا جونیور
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81ADxfgXTdmGW9QGdf0ukAbIJDYEClOxr4yzCOWe7ECwROgq0XMb8hKI&s=10" group-title="پرشیا",پرشیا جونیور
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="پرشیا",پرشیا وان
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81ADxfgXTdmGW9QGdf0ukAbIJDYEClOxr4yzCOWe7ECwROgq0XMb8hKI&s=10" group-title="پرشیا",پرشیا وان
 https://onehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXfvWlml0xHxFR_8XPwSIGNoBLvQOvC54Qw&s" group-title="موزیک",موزیک پرشیا
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="موزیک",سان موزیک
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCV6HziQfzfkBgkzyNgdGzJu_9tB5CSxhBmkbY-CJLskok5Xy5UCnyQlA&s=10" group-title="موزیک",سان موزیک
 https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 group-title="موزیک",آونگ
 https://hls.avang.live/hls/stream.m3u8
