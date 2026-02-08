@@ -91,6 +91,8 @@ https://live-bshto1207.telewebion.com/ek/parseh/live/720p/index.m3u8
 https://live-bshto1205.telewebion.com/ek/zaferan/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://basijnews.ir/files/fa/news/1404/3/7/5235289_431.png",کارون
 https://live-bshto1208.telewebion.com/ek/karoon/live/1080p/index.m3u8
+#EXTINF:-1,طلوع سپورت
+https://hrt-stream.movie.af/live/smil:tolotv.smil/chunklist_w522323303_b800000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f5/Iribvarzesh2022.png" group-title="ورزشی",شبکه ورزش
 http://5.127.1.7/wh7f454c46tw2393566850_584090276/PLTV/88888888/224/3221226845/3.m3u8?tenantId=9802
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbyv-jFbiiWbGY58JQmUulCtZRQMYs3JHsnyyKhxA-ZGIlagTJ5aBnPVE-&s=10" group-title="ورزشی",پرو اسپورت
@@ -105,8 +107,6 @@ https://live-bshto1203.telewebion.com/ek/sport2/live/720p/index.m3u8
 https://live-bshto1203.telewebion.com/ek/sport2/live/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWvOQHwcvbHLJ-cvdK5HRvz6xefGj0n1bYYazIYEmsG3sVUe3slJf_Q7v&s=10" group-title="ورزشی",پرشیانا اسپورت
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="ورزشی",bein
-https://af.ayassport.ir/hls2/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="ورزشی",Bein sport 1 HD
 https://wo.cma.footballii.ir/90live/token/s9y5fBTVKWwyuYptLMx8tw/1765034226/bein1_src.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWvOQHwcvbHLJ-cvdK5HRvz6xefGj0n1bYYazIYEmsG3sVUe3slJf_Q7v&s=10" group-title="ورزشی",پرشیانا اسپورت 3
@@ -141,9 +141,6 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCzuBQLF7AQpcDnO2dVuLouF46yrqhFyr_lM98sb1p52IfhKDFNumP2GrR&s=10" group-title="موزیک",آونگ
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcQ6krTeK72EaBheHwRGDjuw5737BEPWFxQ&s" group-title="عراق",الفرات
-#EXTVLCOPT:http-player-type=m3u
-http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mqS0YQk9zTyPSiaegKLsbINPwbv6KfO4jgDmmkc1z0jIUH2tRSswgPDy93csNnof1mpAjbLN=s900-c-k-c0x00ffffff-no-rj" group-title="عراق",الکفیل
 #EXTVLCOPT:http-player-type=m3u
 https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
@@ -153,3 +150,5 @@ https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/chunks.m3u8
 #EXTINF:-1 group-title="عراق",الشرقية
 https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1131683464.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTFFBU2pXv4tzH-MKvFitAG2QDcweB33kqCjPNPv5bIDR-mS91Ozmubc&s=10" group-title="عراق",الاولي
+https://live.alawla.tv/hls/1/stream.m3u8
