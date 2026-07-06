@@ -3,30 +3,12 @@
 http://5.127.1.9/wh7f454c46tw1815921041_327073564/PLTV/88888888/224/3221226868/3.m3u8?tenantId=9802
 #EXTINF:-1 tvg-logo="https://logoyab.com/wp-content/uploads/2024/05/ABADAN-TV-Logo.png" group-title="iran",آبادان
 http://92.42.50.26/wh7f454c46tw317771736_953189499/PLTV/88888888/224/3221227000/1.m3u8?tenantId=9802
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGooTATqZDv0C8cLfFZJHfkixbKG831cmvCw&s",فوریو
-https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/12/fx-fans-logo-bioact.jpg",FX Movies
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/12/fx-fans-logo-bioact.jpg" group-title="فیلم وسریال",FX Movies
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmganq1x8fuA5KBrk7Ru-TJAoeLzrzug9E3g&s",اینتر نشنال
 https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehCTs-q82prhZRX6rvyrX8qyqiAE90JZ0Fg&s",فوریو فامیلی
-https://familyhls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwIxaMdry0YLNNGgYm0zlu47QaI6X3sx7qxg&s",فوریو پلاس
-https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/1200px-Ahwaz_TV.svg.png",خوزستان
 http://92.42.50.4/wh7f454c46tw825347616_-1175257432/PLTV/88888888/224/3221226415/1.m3u8?tenantId=9802
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/03/Arax-tv-logo-bioact.png",آراکس
-https://araxhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvqF1wJyCu1-0f83GRkgRwlsD9P78ZUgQGR9GJy_BbDBZ2yiAEDVxVSBI&s=10",NET TV
-https://nethls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/12/afra-film-logo-bioact.jpg",افرا فیلم
-https://afrafhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/11/mah-tv-logo.png",ماه تی وی
-https://hls.maahtv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/11/oxir-logo-bioact.jpg",اکسیر
-https://hls.oxir.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-family-logo-bioact.jpg",آوا فیلم
-https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/01/ava-series-logo-bioact.jpg",آوا سریال
 https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/12/fx-fans-logo-bioact.jpg",FX 2 HD
@@ -45,43 +27,15 @@ http://5.127.1.7/wh7f454c46tw1205225969_-79077910/PLTV/88888888/224/3221226637/2
 http://5.127.1.9/wh7f454c46tw1271307910_-541375542/PLTV/88888888/224/3221226176/1.m3u8?tenantId=9802
 #EXTINF:-1,نسیم
 http://5.127.1.2/wh7f454c46tw1399731170_-409236878/PLTV/88888888/224/3221226653/2.m3u8?tenantId=9802
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2YjI4ZWItNDVmMi00MjdiLTlhODMtYjcyOGQ1MTU2NmY3XkEyXkFqcGc@._V1_.jpg",Borderlands.2024.1080p
-https://dl.freedlserveron.eu/dl18/2024/Borderlands.2024/Borderlands.2024.1080p.Filimo.Dubbed.FilmKio.mkv?md5=GvtdOcLSwaceUmQyVgWibg&u=395479&expires=1742011811
 #EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/11/Home-plus-logo-bioact.ir_.jpg",هوم پلاس
 #EXTVLCOPT:http-player-type=m3u
 https://homeplushls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/11/metafilm-logo-bioact.jpg",متا فیلم
-https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/03/Classic-TV-logo-bioact.jpg",کلاسیک تی وی
-https://clshls.wns.live/hls/stream.m3u8
-#EXTINF:-1,الحدث
-https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index_3.m3u8
-#EXTINF:-1,ای فیلم
-https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
 #EXTINF:-1,ای فیلم 2
 https://live.presstv.ir/hls/ifilm2_4_482/index.m3u8
-#EXTINF:-1,ام بی سی فارسی
-https://hls.mbcpersia.live/hls/stream.m3u8
 #EXTINF:-1,دیتیس
 https://dathls.wns.live/hls/stream.m3u8
-#EXTINF:-1,کافه فیلم
-https://cafefhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfuaJqNHuIWeb-gFF9jHUFsaTNDVTy28dreUBUZciKEDxc9XkZRtf4SM&s=10",tv8
-http://line.furious-pro.cc/live/07A960/15F07A/1441669.m3u8?ipsatnews85905.m3u
-#EXTINF:-1,pm tv
-http://blue4k.xyz:8080/live/05070793386/6750b02cea052/374185.m3u8?ipsatnews85905.m3u
-#EXTINF:-1,آترینا
-https://atrihls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_PK9KlZ-KiLWVMy6OrwkmW9iMOuIHOOXxNRPo9h2z1NrLxarNc-NzejEt&s=10",NEWFLIX
 https://newfhls.wns.live/hls/stream.m3u8
-#EXTINF:-1,آرکو
-https://arkhls.wns.live/hls/stream.m3u8
-#EXTINF:-1,آروان
-https://arvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ojRQ3R9jgjxrcFqjSb2GY_ArxDoHLRDBm5oekkL7BnJnz9F75HfqQHc3&s=10",افرا سریال
-https://afrashls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6vgwa3DMhNTRz8TLNBEMCQGf0RdjWv7vHDWj7x87M-UkQZ-IV3HDTLr_p&s=10",icc
-https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKwi2WK-yumb0F0hvejfdrR3xzQ8SRqxiyZ3Zq1GWssg&s=10",فراتر
 #EXTVLCOPT:http-player-type=m3u
 https://live-azd1121.telewebion.com/ek/faratar/live/1080p/index.m3u8
@@ -91,12 +45,30 @@ https://live-bshto1207.telewebion.com/ek/parseh/live/720p/index.m3u8
 https://live-bshto1205.telewebion.com/ek/zaferan/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://basijnews.ir/files/fa/news/1404/3/7/5235289_431.png",کارون
 https://live-bshto1208.telewebion.com/ek/karoon/live/1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehCTs-q82prhZRX6rvyrX8qyqiAE90JZ0Fg&s" group-title="فیلم و سریال",فوریو فامیلی
+https://familyhls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwIxaMdry0YLNNGgYm0zlu47QaI6X3sx7qxg&s" group-title="فیلم و سریال",فوریو پلاس
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2024/03/Arax-tv-logo-bioact.png" group-title="فیلم و سریال",آراکس
+https://araxhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvqF1wJyCu1-0f83GRkgRwlsD9P78ZUgQGR9GJy_BbDBZ2yiAEDVxVSBI&s=10" group-title="فیلم و سریال",NET TV
+https://nethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/12/afra-film-logo-bioact.jpg" group-title="فیلم و سریال",افرا فیلم
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/11/mah-tv-logo.png" group-title="فیلم و سریال",ماه تی وی
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/11/oxir-logo-bioact.jpg" group-title="فیلم و سریال",اکسیر
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://bioact.ir/wp-content/uploads/2023/11/metafilm-logo-bioact.jpg" group-title="فیلم و سریال",متا فیلم
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="فیلم و سریال",ام بی سی فارسی
+https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1 group-title="فیلم و سریال",آترینا
+https://atrihls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="فیلم و سریال",آرکو
+https://arkhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f5/Iribvarzesh2022.png" group-title="ورزشی",شبکه ورزش
 http://5.127.1.7/wh7f454c46tw2393566850_584090276/PLTV/88888888/224/3221226845/3.m3u8?tenantId=9802
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbyv-jFbiiWbGY58JQmUulCtZRQMYs3JHsnyyKhxA-ZGIlagTJ5aBnPVE-&s=10" group-title="ورزشی",پرو اسپورت
-https://hls.ptajik.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWvOQHwcvbHLJ-cvdK5HRvz6xefGj0n1bYYazIYEmsG3sVUe3slJf_Q7v&s=10" group-title="ورزشی",پرشیانا اسپورت 2
-https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 group-title="ورزشی",اسپورت 3
 https://live-bshto1206.telewebion.com/ek/sport3/live/720p/index.m3u8
 #EXTINF:-1 group-title="ورزشی",اسپورت 2
@@ -155,6 +127,6 @@ https://cp11.adabmedia.com/hls2/sport.m3u8
 #EXTINF:-1 group-title="bein",bein
 http://legendking.net/live/Hassania040326/nD6nbJzB61dPd9h/248612.ts
 #EXTINF:-1 group-title="bein",بین
-http://legendking.net/live/Hassania040326/nD6nbJzB61dPd9h/248181.ts
+https://ayassport.776740.ir.cdn.ir/hls2/sport.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="bein",Bein sport FHD
 http://atrupo4k.com:80/live/SamirAmiYounesAZIM/iG6l7U5diKPsSal/248153.ts
